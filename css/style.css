@@ -19,7 +19,11 @@ body {
     max-width: 955px;
     background-color: rgb(218, 173, 116);
     margin: auto;
-    height: 60vh;
+    height: 65vh;
+    padding: 34px;
+    overflow-y: auto;
+    margin-bottom: 23px;
+    border-radius: 10px;
 
 }
 
