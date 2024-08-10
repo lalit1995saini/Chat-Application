@@ -13,16 +13,19 @@ body {
 .heading{
     display: block;
     margin: auto;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    font-size: 30px;
     text-align: center;
 }
 .container{
     max-width: 955px;
     background-color: rgb(218, 173, 116);
     margin: auto;
-    height: 65vh;
+    height: 60vh;
     padding: 34px;
     overflow-y: auto;
-    margin-bottom: 23px;
+    margin-bottom: 15px;
     border-radius: 10px;
 
 }
@@ -71,5 +74,5 @@ body {
     border: 2px solid black;
     border-radius: 6px;
     height: 34px;
-    background-color: rgb(178, 178, 223);
+    background-color: rgb(163, 163, 235);
 }
